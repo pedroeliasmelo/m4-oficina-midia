@@ -1,0 +1,23 @@
+{
+  "name": "m4-oficina-midia",
+  "version": "1.0.0",
+  "description": "Sistema para gerenciamento de oficina mecânica Estudando POO na EP Guiomar em 2026.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroeliasmelo/m4-oficina-midia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroeliasmelo/m4-oficina-midia/issues"
+  },
+  "homepage": "https://github.com/pedroeliasmelo/m4-oficina-midia#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
